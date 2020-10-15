@@ -4,6 +4,15 @@
 ## ICMP Ping (Free Version):
 - Grants access to 6 ICMP Probes @ 0.5 second intervals.
 
+## Full Request:
+```json
+{
+    "apiKey": 'YOUR_API_KEY',
+    "toolType": 'pingFree',
+    "host": "1.1.1.1"
+}
+```
+
 ## Full Return:
 ```json
 {
@@ -31,12 +40,5 @@
 }
 ```
 
-### Returns 2 objects:
-1. __Probes__:
-```json
-{
-    
-}
-```
 
 
