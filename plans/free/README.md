@@ -7,9 +7,9 @@
 ## Full Request:
 ```json
 {
-    "apiKey": 'YOUR_API_KEY',
-    "toolType": 'pingFree',
-    "host": '1.1.1.1'
+    "apiKey": "YOUR_API_KEY",
+    "toolType": "pingFree",
+    "host": "1.1.1.1"
 }
 ```
 
