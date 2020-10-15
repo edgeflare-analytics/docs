@@ -9,7 +9,7 @@
 {
     "apiKey": 'YOUR_API_KEY',
     "toolType": 'pingFree',
-    "host": "1.1.1.1"
+    "host": '1.1.1.1'
 }
 ```
 
