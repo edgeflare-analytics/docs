@@ -18,4 +18,6 @@ full-range NMAP Scanning. This is ideal for implenting our modules into an appli
 - __Free__ -> Our free plan offers access to a few of our limited modules that are rate-limited and is capped @ 150 requests per-month. Feel free to request
 a free key [HERE](https://edgeflare.io/free). 
 
+(Paid solutions coming soon!)
+
 ----
