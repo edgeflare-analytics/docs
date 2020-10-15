@@ -2,7 +2,7 @@
 
 
 ## ICMP Ping (Free Version):
-- Grants access to 6 ICMP Probes @ 0.5 second intervals.
+- Grants access to 6 ICMP Probes @ 0.5 second interval.
 
 ## Full Request:
 ```json
