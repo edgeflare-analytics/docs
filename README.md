@@ -4,5 +4,3 @@ Edgeflare Analytics provides on-demand, enterprise network & attack surface mapp
 
 ----
 
-# Documentation 
-Current documentation pertaining to our API usage.
