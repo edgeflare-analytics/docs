@@ -6,7 +6,7 @@
 ## ICMP Ping (Free Version):
 - Grants access to 6 ICMP Probes @ 0.5 second interval.
 
-## Full Request:
+### Full Request:
 ```json
 {
     "apiKey": "YOUR_API_KEY",
@@ -15,7 +15,7 @@
 }
 ```
 
-## Full Return:
+### Full Return:
 ```json
 {
     "args": {
@@ -42,5 +42,6 @@
 }
 ```
 
+----
 
 
