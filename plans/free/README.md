@@ -1,4 +1,4 @@
-# Tools Included In Free Plan
+# Tools Included In The Free Plan
 
 
 
