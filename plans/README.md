@@ -16,7 +16,7 @@ allowing 150 scanning jobs per month plus a plethora of unlimited modules such a
 full-range NMAP Scanning. This is ideal for implenting our modules into an application or your research toolkit. __$25 1/Mo__~~
 
 - __Free__ -> Our free plan offers access to a few of our limited modules that are rate-limited and is capped @ 150 requests per-month. Feel free to request
-a free key [HERE](https://edgeflare.io/free). 
+a free key [HERE](https://edgeflare.io/signup/). 
 
 (Paid solutions coming soon!)
 
