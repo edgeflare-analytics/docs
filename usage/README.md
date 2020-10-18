@@ -4,7 +4,7 @@
 
 
 ## Basic Request: 
--example: ICMP Ping (free):
+- Example: ICMP Ping (free):
 
 ### JSON Request
 ```json
