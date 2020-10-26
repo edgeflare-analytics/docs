@@ -120,3 +120,13 @@
 
 ```
 
+----
+
+# Basic documentation regarding our Regular/Moderate/Enterprise API's
+
+## Base Endpoint:
+`https://api.edgeflare.io/`
+
+## Allowed Request Methods:
+`POST`
+
