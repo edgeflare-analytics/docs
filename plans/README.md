@@ -1,11 +1,3 @@
-# Basic documentation regarding our API
-
-## Base Endpoint:
-`https://api.edgeflare.io/`
-
-## Allowed Request Methods:
-`POST`
-
 ## Plans:
 - ~~__Enterprise__ -> Our enterprise-grade package boasts unlimited in-depth subnet scans per month @ 1 scanning job per 10 seconds + all tools below. __$1,200 1/Mo__~~
 
