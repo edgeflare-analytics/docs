@@ -1,4 +1,4 @@
-# Basic documentation regarding our API
+# Basic documentation regarding our free API
 
 ## Base Endpoint:
 `https://api.edgeflare.io/`
