@@ -1,6 +1,12 @@
-# Basic Tool-Module API Usage
+# Basic documentation regarding our API
 
-### For Enterprise/moderate scanning, use our enterprise API. (*Coming Soon*)
+## Base Endpoint:
+`https://api.edgeflare.io/`
+
+## Allowed Request Methods:
+`POST`
+
+### For Enterprise/moderate scanning, refer to our enterprise API documentation. (*Coming Soon*)
 
 
 ## Basic Request: 
