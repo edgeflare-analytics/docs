@@ -130,3 +130,9 @@
 ## Allowed Request Methods:
 `POST`
 
+----
+
+## Tool: Enterprise Scan
+
+
+
