@@ -51,7 +51,7 @@
 ```json
 {
     "apiKey": "YOUR_API_KEY",
-    "toolType": "nampFree",
+    "toolType": "nmapFree",
     "host": "1.1.1.1"
 }
 ```
